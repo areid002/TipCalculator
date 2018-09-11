@@ -17,15 +17,13 @@ The following required functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://raw.githubusercontent.com/areid002/TipCalculator/master/Tip%20Calculator.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![Tip Calculator Animation] (https://raw.githubusercontent.com/areid002/TipCalculator/master/Tip%20Calculator.gif) 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-There are quite a few issues with running the app on Simulator. 
-This could be due to the fact that my MacBook is an older model, but the Simulator screen stays black with the Apple symbol.
+There were quite a few issues with running the app on Simulator. 
+This could be due to the fact that my MacBook is an older model, but the Simulator loads really slow.
 It works better when the app is run on my iPhone.
-This issue also prevents me from using LiceCap to present the walkthrough of the app as required.
+
