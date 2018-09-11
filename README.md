@@ -17,7 +17,7 @@ The following required functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![Tip Calculator Animation] (https://raw.githubusercontent.com/areid002/TipCalculator/master/Tip%20Calculator.gif) 
+![Tip Calculator Animation](https://raw.githubusercontent.com/areid002/TipCalculator/master/Tip%20Calculator.gif) 
 
 ## Notes
 
